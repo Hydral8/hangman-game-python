@@ -1,4 +1,4 @@
-# hangman-game-pythons
+# Simple-Hangman-Game
 
 <h2>Description</h2>
 <p>A fully functional simple hangman game built on the command line using Python. Words were fetched from another site</p>
